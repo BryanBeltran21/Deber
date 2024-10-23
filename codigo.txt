@@ -1,0 +1,8 @@
+git init 
+git add
+git commit -m "Deber 22/10/2024"
+git remote add origin https://github.com/BryanBeltran21/Deber.git
+git push origin master
+# Deber
+Bryan Beltran Gutierrez Geovanny 22/10/2024
+git branch -M main
